@@ -1,0 +1,15 @@
+{
+  "title": "3D Video List",
+  "description": "Video List",
+  "videolist": [
+    { "id": "1", "name": "yanxi1.mp4", "title": "延禧攻略-1","src":" http://139.155.179.142/yanxi1.mp4" },
+    { "id": "2", "name": "yanxi2.mp4", "title": "延禧攻略-2","src":" http://139.155.179.142/yanxi2.mp4" },
+    { "id": "3", "name": "yanxi3.mp4", "title": "延禧攻略-3","src":" http://139.155.179.142/yanxi3.mp4" },
+    { "id": "4", "name": "yanxi4.mp4", "title": "延禧攻略-4","src":" http://139.155.179.142/yanxi4.mp4" },
+    { "id": "5", "name": "yanxi5.mp4", "title": "延禧攻略-5","src":" http://139.155.179.142/yanxi5.mp4" },
+    { "id": "6", "name": "yanxi6.mp4", "title": "延禧攻略-6","src":" http://139.155.179.142/yanxi6.mp4" },
+    { "id": "7", "name": "zhz1output.mp4", "title": "甄嬛传","src":" http://139.155.179.142/zhz1output.mp4" },
+    { "id": "8", "name": "dilireb1.mp4", "title": "迪丽热巴","src":" http://139.155.179.142/dilireb1.mp4" },
+    { "id": "9", "name": "fish.mp4", "title": "延禧攻略-6","src":" http://139.155.179.142/fish.mp4" }
+  ]
+}
